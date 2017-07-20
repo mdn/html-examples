@@ -1,0 +1,22 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+header {
+  height: 200px;
+  background-position: center 0;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+  color: white;
+  line-height: 200px;
+  font-size: 4em;
+}
