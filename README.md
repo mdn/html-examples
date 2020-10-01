@@ -1,5 +1,6 @@
-# html-examples
+# Great Websites to learn HTML
 Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML.
+A great website to know all types of semantic tags and some usefull tags : https://www.wpkube.com/html5-cheat-sheet/
 
 The directory contents are as follows:
 
