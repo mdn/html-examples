@@ -243,7 +243,7 @@
           };
           div.classList.add('select');
           header.classList.add('header');
-          div.tabIndex = 1;
+          div.tabIndex = 0;
           select.tabIndex = -1;
           span.innerText = select.label;
           header.appendChild(span);
@@ -260,7 +260,7 @@
               option.dataset.label = o.label;
               option.onclick = onclick;
               option.onkeyup = onkeyup;
-              option.tabIndex = i + 1;
+              option.tabIndex = 0;
               option.appendChild(label);
               datalist.appendChild(option);
           }
